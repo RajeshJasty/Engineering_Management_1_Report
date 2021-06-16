@@ -1,0 +1,20 @@
+C:\Users\Rajesh\Desktop\LightControl\lightControl\lightControl\bin\Debug\lightControl.exe.config
+C:\Users\Rajesh\Desktop\LightControl\lightControl\lightControl\bin\Debug\lightControl.exe
+C:\Users\Rajesh\Desktop\LightControl\lightControl\lightControl\bin\Debug\lightControl.pdb
+C:\Users\Rajesh\Desktop\LightControl\lightControl\lightControl\obj\Debug\lightControl.csprojAssemblyReference.cache
+C:\Users\Rajesh\Desktop\LightControl\lightControl\lightControl\obj\Debug\lightControl.Form1.resources
+C:\Users\Rajesh\Desktop\LightControl\lightControl\lightControl\obj\Debug\lightControl.Properties.Resources.resources
+C:\Users\Rajesh\Desktop\LightControl\lightControl\lightControl\obj\Debug\lightControl.csproj.GenerateResource.cache
+C:\Users\Rajesh\Desktop\LightControl\lightControl\lightControl\obj\Debug\lightControl.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh\Desktop\LightControl\lightControl\lightControl\obj\Debug\lightControl.exe
+C:\Users\Rajesh\Desktop\LightControl\lightControl\lightControl\obj\Debug\lightControl.pdb
+C:\Users\Rajesh\Desktop\Current Papers\Digital_Embedded_Systems\Final Codes\LightControl_vs_code\lightControl\lightControl\bin\Debug\lightControl.exe.config
+C:\Users\Rajesh\Desktop\Current Papers\Digital_Embedded_Systems\Final Codes\LightControl_vs_code\lightControl\lightControl\bin\Debug\lightControl.exe
+C:\Users\Rajesh\Desktop\Current Papers\Digital_Embedded_Systems\Final Codes\LightControl_vs_code\lightControl\lightControl\bin\Debug\lightControl.pdb
+C:\Users\Rajesh\Desktop\Current Papers\Digital_Embedded_Systems\Final Codes\LightControl_vs_code\lightControl\lightControl\obj\Debug\lightControl.csprojAssemblyReference.cache
+C:\Users\Rajesh\Desktop\Current Papers\Digital_Embedded_Systems\Final Codes\LightControl_vs_code\lightControl\lightControl\obj\Debug\lightControl.Form1.resources
+C:\Users\Rajesh\Desktop\Current Papers\Digital_Embedded_Systems\Final Codes\LightControl_vs_code\lightControl\lightControl\obj\Debug\lightControl.Properties.Resources.resources
+C:\Users\Rajesh\Desktop\Current Papers\Digital_Embedded_Systems\Final Codes\LightControl_vs_code\lightControl\lightControl\obj\Debug\lightControl.csproj.GenerateResource.cache
+C:\Users\Rajesh\Desktop\Current Papers\Digital_Embedded_Systems\Final Codes\LightControl_vs_code\lightControl\lightControl\obj\Debug\lightControl.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh\Desktop\Current Papers\Digital_Embedded_Systems\Final Codes\LightControl_vs_code\lightControl\lightControl\obj\Debug\lightControl.exe
+C:\Users\Rajesh\Desktop\Current Papers\Digital_Embedded_Systems\Final Codes\LightControl_vs_code\lightControl\lightControl\obj\Debug\lightControl.pdb

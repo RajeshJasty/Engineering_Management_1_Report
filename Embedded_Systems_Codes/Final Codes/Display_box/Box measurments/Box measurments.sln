@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Box measurments", "Box measurments\Box measurments.csproj", "{B8C58391-6E97-4BE0-8E79-4A013E3FD2B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8C58391-6E97-4BE0-8E79-4A013E3FD2B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C58391-6E97-4BE0-8E79-4A013E3FD2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C58391-6E97-4BE0-8E79-4A013E3FD2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C58391-6E97-4BE0-8E79-4A013E3FD2B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8BD9B00-7A87-4F5A-8EA1-FDCD040DCC17}
+	EndGlobalSection
+EndGlobal

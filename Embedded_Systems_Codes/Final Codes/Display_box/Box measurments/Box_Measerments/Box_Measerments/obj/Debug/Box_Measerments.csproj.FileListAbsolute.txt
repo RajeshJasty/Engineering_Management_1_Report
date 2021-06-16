@@ -1,0 +1,10 @@
+C:\Users\Rajesh\source\repos\Embedded systems_Forms App.NET Framework\HousePrice\Box Measurements\Box measurments\Box_Measerments\Box_Measerments\obj\Debug\Box_Measerments.csprojAssemblyReference.cache
+C:\Users\Rajesh\source\repos\Embedded systems_Forms App.NET Framework\HousePrice\Box Measurements\Box measurments\Box_Measerments\Box_Measerments\obj\Debug\Box_Measerments.Form1.resources
+C:\Users\Rajesh\source\repos\Embedded systems_Forms App.NET Framework\HousePrice\Box Measurements\Box measurments\Box_Measerments\Box_Measerments\obj\Debug\Box_Measerments.Properties.Resources.resources
+C:\Users\Rajesh\source\repos\Embedded systems_Forms App.NET Framework\HousePrice\Box Measurements\Box measurments\Box_Measerments\Box_Measerments\obj\Debug\Box_Measerments.csproj.GenerateResource.cache
+C:\Users\Rajesh\source\repos\Embedded systems_Forms App.NET Framework\HousePrice\Box Measurements\Box measurments\Box_Measerments\Box_Measerments\obj\Debug\Box_Measerments.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh\source\repos\Embedded systems_Forms App.NET Framework\HousePrice\Box Measurements\Box measurments\Box_Measerments\Box_Measerments\bin\Debug\Box_Measerments.exe.config
+C:\Users\Rajesh\source\repos\Embedded systems_Forms App.NET Framework\HousePrice\Box Measurements\Box measurments\Box_Measerments\Box_Measerments\bin\Debug\Box_Measerments.exe
+C:\Users\Rajesh\source\repos\Embedded systems_Forms App.NET Framework\HousePrice\Box Measurements\Box measurments\Box_Measerments\Box_Measerments\bin\Debug\Box_Measerments.pdb
+C:\Users\Rajesh\source\repos\Embedded systems_Forms App.NET Framework\HousePrice\Box Measurements\Box measurments\Box_Measerments\Box_Measerments\obj\Debug\Box_Measerments.exe
+C:\Users\Rajesh\source\repos\Embedded systems_Forms App.NET Framework\HousePrice\Box Measurements\Box measurments\Box_Measerments\Box_Measerments\obj\Debug\Box_Measerments.pdb
